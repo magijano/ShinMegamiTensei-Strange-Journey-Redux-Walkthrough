@@ -1,9 +1,9 @@
 # 译者的话<br>
-自九月下旬动工始，已阅二月有余，终于今日敲下了最后一个字。囿于译者能力与时间，攻略部分错漏在所难免，还望诸位读者谅解。若您有何指教或愿帮助译者斧正错漏之处一二，欢迎您直接提交PR或E-Mail我(maikelelebtb@yahoo.com)。此外攻略阅读顺序及参考资料也将于下方列出，读者在游戏过程中遇到难题时若有相对应的语言能力不妨参照一二。
-感谢LNC汉化组所做的工作，使中国玩家能在没有语言障碍的情况下体验这款优秀的游戏。
-<p align="right">译者<br>壬寅年冬于夹缝居时成都冷得要死衣服不够过冬令人感叹</p>
+囿于译者能力与时间，攻略部分错漏在所难免，还望诸位读者谅解。若您有何指教或不吝斧正错漏之处一二，欢迎您直接提交PR或E-Mail我(<maikelelebtb@yahoo.com>)。此外攻略阅读顺序及参考资料也将于下方列出，读者在游戏过程中遇到难题时若有相对应的语言能力不妨参照一二。
+感谢LNC汉化组，使中国玩家能在没有语言障碍的情况下体验这款优秀的游戏。
+<p align="right">译者<br>壬寅冬于夹缝居时成都冷得要死令人感叹</p>
 
-- # 攻略阅读顺序
+# 攻略阅读顺序<br>
   - ## Opening
     -  [Opening](Opening/Opening.md)
     - [M1 「救助动力班成员」](Opening/M1「救助动力班成员」.md)
@@ -58,10 +58,19 @@
       - [M29「获得四枚宇宙卵」](Horologium/NeutralRoute/M29「获得四枚宇宙卵」.md)
       - [M28-3「时钟座的异域物质」](Horologium/NeutralRoute/M28-3「时钟座的异域物质」.md)
   - ## 叹息之胎
+    - [浅层圈&第一圈](Womb%20of%20Grief/浅层圈&第一圈)
+    - [第二圈](Womb%20of%20Grief/第二圈)
+    - [第三圈](Womb%20of%20Grief/第三圈)
+    - [第四圈](Womb%20of%20Grief/第四圈)
+    - [第五圈](Womb%20of%20Grief/第五圈)
+    - [第六圈](Womb%20of%20Grief/第六圈)
   - ## 十天往途
+    - [十天往途](../Empyrean%20Ascent/十天往途)
   <br>
-  # Ref<br>
+# Ref<br>
   [电法米wiki](https://wiki.denfaminicogamer.jp/dsj/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E6%94%BB%E7%95%A5)
   [Privespa](http://privespa.org/megatendsj/index.html)
-  [GameFaqs@Devhatesyou)](https://gamefaqs.gamespot.com/ds/961651-shin-megami-tensei-strange-journey/faqs/59459)
+  [GameFaqs@Devhatesyou](https://gamefaqs.gamespot.com/ds/961651-shin-megami-tensei-strange-journey/faqs/59459 "View in Text Mode Recommended")
 
+
+<br>
